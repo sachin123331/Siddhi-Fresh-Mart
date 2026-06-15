@@ -4,7 +4,7 @@ class FreshMartApp {
     this.cart = [];
     this.orders = [];
     this.riders = [
-      { id: 1, name: 'Sachin Gupta', phone: '9876543210', status: 'available', location: { lat: 28.6139, lng: 77.2090 } }
+      { id: 1, name: 'Sachin Gupta', phone: '9988610375', status: 'available', location: { lat: 28.6139, lng: 77.2090 } }
     ];
     this.shopkeepers = [
       { id: 1, name: 'Ramesh Sharma', phone: '9988776655', address: 'Shop No. 1, Market' },
